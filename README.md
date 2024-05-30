@@ -1,4 +1,4 @@
-#- Kratos Task
+# - Kratos Task
 
 ###Hello, my friend who loves coding. We have prepared a task for you to work with us, improve yourself, and hopefully learn from you. Below, we will explain in detail what we want you to do in this simple task:
 
