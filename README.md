@@ -48,7 +48,7 @@
 ## Good luck! We look forward to seeing your project.
 
 
-| First Pic                           | Second Pic                          | Third Pic                           | Fourth Pic                           |
+| Launch Screen                       | Login Page                          | Create Account Page                 | Home Page                           |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
 | ![LaunchPage with GIF](https://github.com/Fukulu/KratosTask/assets/117298913/1691e330-3f93-489b-b2d5-00c8cc825a60) | ![Signup](https://github.com/Fukulu/KratosTask/assets/117298913/24dc4375-47b1-48fd-bb25-2c1b4eb0b002) | ![Create Account](https://github.com/Fukulu/KratosTask/assets/117298913/ded5db3f-9002-4ec2-a383-71cbe67a6b2b) | ![HomePage](https://github.com/Fukulu/KratosTask/assets/117298913/c4d3fcd4-1cfc-40f0-b3bf-8f14b4a3beae) |
 
